@@ -1,0 +1,154 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+body{
+    flex-direction: column;
+    height:100vh;
+    width:100vw ;
+}
+h1{
+    font-size: 70px;
+    margin-top:-70px;
+}
+h1::after{
+    content: "";
+    background-image: url("/icon-hvNRE3Ne.png");
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 130px;
+    bottom: 0;
+    background-repeat: no-repeat;
+    background-position: center;
+    z-index: -1;
+    /* height: 100px;
+    width: 100px; */
+}
+p{
+    font-size: 30px;
+    margin-top: 30px;
+
+}
+div{
+    margin-top: 40px;
+}
+input{
+    height: 50px;
+    width: 320px;
+    border-radius: 30px;
+    padding-left:30px;
+    font-size: 20px;
+    margin-right: 100px;
+}
+
+button{
+    height: 50px; 
+    border-radius: 50%;
+    width: 50px;
+}
+.theme{
+    position: absolute;
+     bottom: 32px;
+     right: 32px;
+}
+.rev{
+    color:aquamarine
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
